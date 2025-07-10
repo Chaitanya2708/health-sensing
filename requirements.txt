@@ -1,0 +1,21 @@
+# Core ML & DL Libraries
+tensorflow==2.13.0
+scikit-learn==1.3.0
+numpy==1.23.5
+pandas==1.5.3
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Signal Processing
+scipy==1.10.1
+
+# Optional (for tqdm progress bars/logging)
+tqdm==4.65.0
+
+# Jupyter Notebook support (optional, if you're using notebooks)
+notebook==6.5.4
+
+# For file parsing (if needed)
+python-dateutil==2.8.2
