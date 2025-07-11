@@ -57,7 +57,7 @@ Each participant's folder (e.g., `AP01/`) contains:
 - Exports PDFs to `Visualizations/`
 
 ```bash
-python vis.py -name "Data/AP01"
+python scripts/vis.py -name Data
 
 2. Signal Cleaning (clean_signals.py)
 Applied Butterworth bandpass filter (0.17–0.4 Hz) to remove noise
